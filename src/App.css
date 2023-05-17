@@ -1,0 +1,15 @@
+.principal{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.resultado{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.principal label{
+  
+}
